@@ -24,6 +24,4 @@ void displayStdList(t_std_list);
 
 void addHeadStd(t_std_list *, int);
 
-
-
 #endif //UNTITLED_LIST_H

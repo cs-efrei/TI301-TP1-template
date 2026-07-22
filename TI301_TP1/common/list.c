@@ -12,8 +12,14 @@
 void addHeadStd(t_std_list *p_list, int val)
 {
     // val est un entier, il faut donc créer une cellule contenant cet entier et l'ajouter en tête de la liste
+
+    // à vous de jouer
+
     return;
+
 }
+
+
 
 void displayStdList(t_std_list list)
 {

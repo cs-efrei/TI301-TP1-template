@@ -9,4 +9,5 @@
 int main(int argc, char *argv[])
 {
     printf("chainage en tete\n");
+    printf("test passed\n");
 }

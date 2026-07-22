@@ -10,7 +10,7 @@ int main()
     // initialize it with an empty list
 
      // visualize the list with the displayStdList function
-
+    displayStdList(SampleStdList_2());
     // pour avoir une visualisation, ficher svg dans le dossier output
     listToSvg(SampleStdList_2() ,"empty_list.svg");
 
