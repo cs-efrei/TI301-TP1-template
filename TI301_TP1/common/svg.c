@@ -7,7 +7,7 @@
 #include <string.h>
 #include "list.h"
 
-#define OUTPUT_FILE_PATH "../../../TP1/chainage_en_tete/output/"
+#define OUTPUT_FILE_PATH "../../../TP1/head_insertion/output/"
 
 
 void listToSvg(t_std_list list, char *filename)

@@ -14,12 +14,5 @@ files:
     visible: true
   - name: test/test.cpp
     visible: false
-  - name: output/rapport_tests.md
-    visible: true
-    editable: false
   - name: task.md
-    visible: true
-  - name: output/list_after.svg
-    visible: true
-  - name: output/list_before.svg
     visible: true

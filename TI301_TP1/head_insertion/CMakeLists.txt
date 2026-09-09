@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.21)
 
 # Étape 1 : On force l'activation du C et du C++ (CXX) pour que <iostream> soit reconnu
-project(chainage_en_tete C CXX)
+project(head_insertion C CXX)
 
 set(CMAKE_C_STANDARD 11)
 set(CMAKE_CXX_STANDARD 14) # Standard C++ requis par Catch2 et iostream

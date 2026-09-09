@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.21)
 
 # Étape 1 : On force l'activation du C et du C++ (CXX) pour que <iostream> soit reconnu
-project(suppression_cellule C CXX)
+project(predefined_lists C CXX)
 
 set(CMAKE_C_STANDARD 11)
 set(CMAKE_CXX_STANDARD 14) # Standard C++ requis par Catch2 et iostream
@@ -27,7 +27,6 @@ if(NOT TARGET catch_runner)
         )
     endif()
 endif()
-
 # NOUVEAU : On transmet le chemin absolu directement à la .dll
 target_compile_definitions(catch_runner PRIVATE
         CLARITY_OUTPUT_DIR="${CMAKE_CURRENT_SOURCE_DIR}/output"

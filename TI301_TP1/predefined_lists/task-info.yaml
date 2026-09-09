@@ -6,16 +6,7 @@ files:
     visible: true
   - name: ../common/cell.h
     visible: true
-  - name: ../common/list.h
-    visible: true
-  - name: ../common/getsamples.h
-    visible: true
-  - name: ../common/list.c
-    visible: true
   - name: test/test.cpp
     visible: false
-  - name: output/rapport_tests.md
-    visible: true
-    editable: false
   - name: task.md
     visible: true

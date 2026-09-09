@@ -1,0 +1,12 @@
+type: edu
+files:
+  - name: src/main.c
+    visible: true
+  - name: test/test.cpp
+    visible: false
+  - name: CMakeLists.txt
+    visible: false
+  - name: src/countval.c
+    visible: true
+  - name: src/countval.h
+    visible: true

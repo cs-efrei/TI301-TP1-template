@@ -1,5 +1,5 @@
 content:
-  - listes_predefinies
-  - chainage_en_tete
-  - suppression_cellule
-
+  - predefined_lists
+  - head_insertion
+  - suppress_cell
+  - count_values
