@@ -10,3 +10,5 @@ files:
     visible: false
   - name: task.md
     visible: true
+  - name: output/rapport_tests.md
+    visible: true
